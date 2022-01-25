@@ -1,0 +1,79 @@
+{
+  "_from": "nodegame@7.1.0",
+  "_id": "nodegame@7.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-bcYCU0Ty1mHZAdAezSMJJhqukETGUBqpy/6Dqax325ANXHSvP/OKHYn/sLhZyRSs6cSlqipSzseTKvBj/ezNPQ==",
+  "_location": "/nodegame",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "nodegame@7.1.0",
+    "name": "nodegame",
+    "escapedName": "nodegame",
+    "rawSpec": "7.1.0",
+    "saveSpec": null,
+    "fetchSpec": "7.1.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nodegame/-/nodegame-7.1.0.tgz",
+  "_shasum": "23a40370ede11c4d733b7dc3d5fbd36d2d4cc6ea",
+  "_spec": "nodegame@7.1.0",
+  "_where": "C:\\Users\\Kett1eC0rn\\OneDrive\\Documents\\Workspace",
+  "author": {
+    "name": "Stefano Balietti",
+    "email": "futur.dorko@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/nodeGame/nodegame/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Stefano Balietti",
+      "email": "futur.dorko@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "JSUS": ">=1.1.0",
+    "NDDB": ">=3.0.2",
+    "commander": "^7.0.0",
+    "fs-extra": "*",
+    "nodegame-client": ">=7.1.0",
+    "nodegame-db": "*",
+    "nodegame-game-template": ">=7.0.0",
+    "nodegame-generator": ">=7.0.0",
+    "nodegame-mongodb": "*",
+    "nodegame-monitor": ">=7.0.0",
+    "nodegame-mturk": ">=7.0.0",
+    "nodegame-requirements": ">=7.0.0",
+    "nodegame-server": ">=7.0.3",
+    "nodegame-widgets": ">=7.0.2",
+    "nodegame-window": ">=7.0.0",
+    "smoosh": "0.4.0",
+    "ultimatum-game": ">=7.0.0"
+  },
+  "deprecated": false,
+  "description": "Fast, scalable JavaScript for large-scale, online, multiplayer, real-time games and experiments.",
+  "devDependencies": {
+    "mocha": ">= 0.3.0",
+    "should": "4.4.1"
+  },
+  "engines": {
+    "node": ">= 10.0.0"
+  },
+  "homepage": "http://nodegame.org",
+  "license": "MIT",
+  "name": "nodegame",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodeGame/nodegame.git"
+  },
+  "scripts": {
+    "start": "node launcher.js"
+  },
+  "version": "7.1.0"
+}

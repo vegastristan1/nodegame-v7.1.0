@@ -1,0 +1,3 @@
+{"time":1642,"timeup":false,"stepId":"instructions","stageId":"instructions","done":true,"player":"412963102908538","stage":{"stage":1,"step":1,"round":1},"timestamp":1642996039904,"session":"room000003","treatment":"rich"}
+{"time":60008,"timeup":true,"stepId":"instructions","stageId":"instructions","done":true,"player":"806781947592340","stage":{"stage":1,"step":1,"round":1},"timestamp":1642996098727,"session":"room000003","treatment":"rich"}
+{"time":2897,"timeup":false,"stepId":"quiz","stageId":"quiz","done":true,"player":"412963102908538","stage":{"stage":2,"step":1,"round":1},"timestamp":1642996101646,"session":"room000003","treatment":"rich"}
